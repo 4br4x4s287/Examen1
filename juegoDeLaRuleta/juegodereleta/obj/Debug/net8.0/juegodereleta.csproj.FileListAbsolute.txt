@@ -1,0 +1,14 @@
+C:\Users\lopez\OneDrive\Documentos\programacion.net\juegodereleta\obj\Debug\net8.0\juegodereleta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lopez\OneDrive\Documentos\programacion.net\juegodereleta\obj\Debug\net8.0\juegodereleta.AssemblyInfoInputs.cache
+C:\Users\lopez\OneDrive\Documentos\programacion.net\juegodereleta\obj\Debug\net8.0\juegodereleta.AssemblyInfo.cs
+C:\Users\lopez\OneDrive\Documentos\programacion.net\juegodereleta\obj\Debug\net8.0\juegodereleta.csproj.CoreCompileInputs.cache
+C:\Users\lopez\OneDrive\Documentos\programacion.net\juegodereleta\bin\Debug\net8.0\juegodereleta.exe
+C:\Users\lopez\OneDrive\Documentos\programacion.net\juegodereleta\bin\Debug\net8.0\juegodereleta.deps.json
+C:\Users\lopez\OneDrive\Documentos\programacion.net\juegodereleta\bin\Debug\net8.0\juegodereleta.runtimeconfig.json
+C:\Users\lopez\OneDrive\Documentos\programacion.net\juegodereleta\bin\Debug\net8.0\juegodereleta.dll
+C:\Users\lopez\OneDrive\Documentos\programacion.net\juegodereleta\bin\Debug\net8.0\juegodereleta.pdb
+C:\Users\lopez\OneDrive\Documentos\programacion.net\juegodereleta\obj\Debug\net8.0\juegodereleta.dll
+C:\Users\lopez\OneDrive\Documentos\programacion.net\juegodereleta\obj\Debug\net8.0\refint\juegodereleta.dll
+C:\Users\lopez\OneDrive\Documentos\programacion.net\juegodereleta\obj\Debug\net8.0\juegodereleta.pdb
+C:\Users\lopez\OneDrive\Documentos\programacion.net\juegodereleta\obj\Debug\net8.0\juegodereleta.genruntimeconfig.cache
+C:\Users\lopez\OneDrive\Documentos\programacion.net\juegodereleta\obj\Debug\net8.0\ref\juegodereleta.dll
